@@ -5,6 +5,8 @@ It is recommended that the minimum distance from the screen must be 51cm. so I h
 
 <img width="327" alt="Screenshot 2022-06-07 at 1 05 25 PM" src="https://user-images.githubusercontent.com/68723267/172323004-42cad5de-7140-4b1b-8487-b0a8ac0fccd5.png">
 
+<img width="150" alt="Screenshot 2022-06-07 at 1 11 43 PM" src="https://user-images.githubusercontent.com/68723267/172324517-6732fe93-36c2-4723-9de6-da773890982f.png">
+
 <img width="293" alt="Screenshot 2022-02-03 at 11 12 34 PM" src="https://user-images.githubusercontent.com/68723267/152642130-e1e0d9db-fe00-4820-a338-dafd2b61ad4c.png">
 
 <img width="718" alt="Screenshot 2022-02-03 at 11 25 25 PM" src="https://user-images.githubusercontent.com/68723267/152642134-93c42602-5818-4a22-bdca-b5e142dfb277.png">
